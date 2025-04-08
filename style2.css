@@ -1,0 +1,26 @@
+body{
+    background-image: url('/media/labroom.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    width: 150vw;
+    height: 100vh;
+}
+.btn {
+    border:none;
+    font-size: x-large;
+    color: azure;
+    background-color: inherit;
+    padding: 14x 28x;
+    font-size: pointer;
+    display: inline-block;
+}
+.btn:hover
+{
+    background: rgba(238, 238, 238, 0.452);}
+
+.back{
+    color: #eeeeee57;
+}
+.continue {
+    color:#eeeeee7c
+}

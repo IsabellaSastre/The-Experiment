@@ -1,20 +1,31 @@
  body{
-    background-image: url('background.jpg');
+    background-image: url('../media/background.jpg');
     background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+ }
    
-.btn{
+.btn {
     border:none;
+    font-size:x-large;
+    color:azure;
     background-color:inherit;
     padding: 14px 28px;
     font-size: pointer;
-    display: inline-block
+    display: inline-block;
 }
-.btn:hover{background: #eee;}
+.btn:hover
+{ 
+    background: rgba(238, 238, 238, 0.452);}
 
-.start{color: #eeeeee57;}
-.info{color:#eeeeee7c}
+.start { 
+    color: #ffffff57;
+}
 
+.info {
+    color:#ffffff7c
+}
 
-    }
  
  
