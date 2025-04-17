@@ -1,10 +1,10 @@
 @font-face {
         font-family:'Griffy';
-        src: url(Griffy-Regular.ttf);
+        src: url(../media/Griffy-Regular.ttf);
      }
  
  body{
-    background-image: url('/media/hallway.jpg');
+    background-image: url('../media/hallway.jpg');
     background-repeat: no-repeat;
     background-size:cover;
     width: 100vw;
