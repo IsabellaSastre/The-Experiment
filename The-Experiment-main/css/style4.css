@@ -1,0 +1,33 @@
+@font-face {
+    font-family:'Griffy';
+    src: url(Griffy-Regular.ttf);
+ }
+
+body{
+    background-image: url("/media/room.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+ }
+   
+.btn {
+    border:none;
+    font-size:x-large;
+    color:azure;
+    font-family: Griffy;
+    background-color:inherit;
+    padding: 28px 56px;
+    font-size: 100px;
+    display: inline-block;
+}
+.btn:hover
+{ 
+    color: brown;
+    background: rgba(165, 42, 42, 0.199)}
+
+._hallway { 
+        color: azure
+}
+
+    
