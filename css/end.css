@@ -4,6 +4,11 @@ body{
     font-size: xxx-large; 
 }
 
+@font-face {
+    font-family:'Griffy';
+    src: url(../media/Griffy-Regular.ttf);
+ }
+
 .btn {
     border:none;
     font-size:x-large;
