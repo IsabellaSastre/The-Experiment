@@ -1,0 +1,36 @@
+body{
+    font-family: Griffy;
+    color:brown;
+    font-size: xxx-large;
+    background-image: url('/media/contact.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+.column{
+    position: absolute;
+    top: 45%;
+    left: 35%
+
+}
+
+.btn {
+    border:none;
+    font-size:x-large;
+    font-family: Griffy;
+    color:azure;
+    background-color:inherit;
+    padding: 28px 56px;
+    font-size: 100px;
+    display: inline-block;
+}
+.btn:hover
+{ 
+    color: brown;
+    background: rgba(165, 42, 42, 0.199)}
+
+.front { 
+    color:azure;
+}
